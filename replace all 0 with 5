@@ -1,0 +1,4 @@
+def change(num):
+ return int(str(num).replace("0","5"))
+ number=int(input("enter the number"))
+print(change(num))
